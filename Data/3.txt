@@ -1,12 +1,21 @@
-2016-08-17 23:25:32.931928
-Atlanta Fed raises US third-quarter GDP view to 3.6 percent
-Tuesday, 16 Aug 2016 | 12:30  PM ET
-Reuters
-Chris Rank | Bloomberg | Getty Images
-Dennis Lockhart, president and chief executive officer of the Federal Reserve Bank of Atlanta
-The U.S. economy is on track to grow at a 3.6 percent annualized rate in the third quarter on data that showed domestic housing starts unexpectedly rose to a five-month high in July, the Atlanta Federal Reserve's GDP Now forecast model showed on Tuesday.
-The latest third-quarter gross domestic product estimate was higher than the 3.5 percent figure calculated last Friday, the Atlanta Fed said on its website.
-U.S. home builders increased their groundbreaking last month by 2.1 percent to a seasonally adjusted annual rate of 1.2 million units, the strongest level since February, the Commerce Department said on Tuesday. June's starts were largely unchanged at a 1.19 million-unit rate.
-Economists polled by Reuters had forecast housing starts slipping to a 1.18 million-unit pace in July.
-As a result of the surprise increase in housing starts, the Atlanta Fed's forecast model raised its estimate on third-quarter residential investment growth to 2.4 percent from 0.4 percent.
-SHOW COMMENTS
+2017-08-15
+August 15, 2017 /  2:28 PM / an hour ago
+Uber settles U.S. allegations over data privacy
+Chris Sanders and Heather Somerville
+4 Min Read
+FILE PHOTO: A man arrives at the Uber offices in Queens, New York, U.S., February 2, 2017.Brendan McDermid/File Photo
+WASHINGTON/SAN FRANCISCO (Reuters) - Uber Technologies Inc [UBER.UL] has agreed to two decades of audits after U.S. regulators found the ride-services company failed to protect the personal information of drivers and passengers and deceived the public about efforts to prevent snooping by its employees.
+The Federal Trade Commission on Tuesday announced a settlement with Uber that requires the San Francisco-based company to implement a privacy program and conduct an audit every two years for the next 20 to make certain it meets the FTC requirements.
+"Our order requires a culture of privacy sensitivity for Uber," FTC Acting Chairman Maureen Ohlhausen said on a call with reporters. "It's going to make them take privacy into account every day."
+The settlement reflects Uber's latest attempt to move past a series of crises, including an internal probe of sexual harassment allegations, the departure of CEO Travis Kalanick and other top executives and a high-stakes lawsuit over its autonomous car designs.
+Uber is now consumed by in-fighting among a divided board of directors and angry shareholders after an investor lawsuit was filed against Kalanick, who was ousted in June.
+An Uber spokesman said in an emailed statement that the company was pleased the FTC investigation had ended, adding: "We've significantly strengthened our privacy and data security practices since then and will continue to invest heavily in these programs."
+The FTC started its Uber probe following media reports in late 2014 that revealed a program dubbed "God View," which allowed company employees to monitor the real-time locations of customers who had requested a ride through the app. Around the same time, Uber executive Emil Michael, who has since left the company, suggested Uber should hire opposition researchers to investigate journalists who had been critical of the company.
+Following the uproar over God View, Uber claimed in 2015 that it had a "strict policy prohibiting" employees from accessing rider and driver data. But in fact, Uber enforced that policy for only about eight months, said Ben Rossen, FTC staff attorney.
+The FTC also investigated a massive data breach in May 2014 in which more than 100,000 names and license numbers of Uber drivers were stolen.
+The FTC said Uber "did not take reasonable, low-cost measures that could have helped the company prevent the breach." For example, Uber allowed its engineers and programmers to use a single key that gave them full administrative access to all the data, the agency said.
+Uber noted that the issues covered in the FTC investigation occurred years ago, and in 2015 the company hired its first chief security officer and "now employ hundreds of trained professionals dedicated to protecting user information."
+Not covered by the FTC investigation was Uber's use of the software tool "Greyball" to avoid enforcement of local taxi laws, to which it admitted in March.
+Ohlhausen declined to say whether the FTC was investigating  that matter. Reuters reported in March that the U.S. Department of Justice opened a criminal investigation of Uber's use of Greyball.
+Reporting by Makini Brice and Chris Sanders in Washington and Heather Somerville in San Francisco; editing by Dan Grebler
+0 : 0
